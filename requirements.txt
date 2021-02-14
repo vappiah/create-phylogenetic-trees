@@ -1,0 +1,6 @@
+matplotlib
+numpy
+biopython
+networkx
+pydot
+
