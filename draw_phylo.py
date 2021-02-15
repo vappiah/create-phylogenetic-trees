@@ -13,6 +13,7 @@ tree=Phylo.read(file_,'newick')
 Phylo.draw(tree,do_show=False)
 #plt.savefig('Phylo.jpg')
 pylab.savefig('Phylo.jpg',dpi=1200)
+pylab.savefig('Phylo.svg',dpi=1200)
 
 print("Phylogenetic tree generated and saved Phylo.jpg")
 
