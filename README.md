@@ -2,7 +2,7 @@
 
 #download github repository
 
-git clone https://github.com/vappiah/phylogenetic-trees
+git clone https://github.com/vappiah/create-phylogenetic-trees
 
 #cd to the directory
 
