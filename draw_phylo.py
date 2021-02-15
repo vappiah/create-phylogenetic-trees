@@ -5,8 +5,6 @@ import sys
 import pylab
 import networkx
 
-#import matplotlib
-
 file_=sys.argv[1]
 
 tree=Phylo.read(file_,'newick')
