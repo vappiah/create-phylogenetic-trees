@@ -6,7 +6,7 @@ git clone https://github.com/vappiah/create-phylogenetic-trees
 
 #cd to the directory
 
-cd phylogenetic-trees
+cd create-phylogenetic-trees
 
 #add execution rights to the scripts
 
