@@ -2,7 +2,10 @@
 
 from Bio import Phylo
 import sys
+import matplotlib
+matplotlib.use('Agg')
 import pylab
+
 import networkx
 
 file_=sys.argv[1]
