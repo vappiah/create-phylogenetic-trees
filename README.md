@@ -1,4 +1,4 @@
-# phylogenetic-trees
+# Create Phylogenetic-trees
 
 # Description
 This repository is a collection of scripts that can be used to generate phylogenetic trees. 
@@ -73,4 +73,4 @@ source phylo/bin/activate
 
 python3 draw_phylo.py phyml_tree.txt
 
-#you can view the image of three. congratulations for performing a phylogenetic analysis. cheers!!!!!!!
+#you can view the phylogenetic tree. congratulations for performing a phylogenetic analysis. cheers!!!!!!!
